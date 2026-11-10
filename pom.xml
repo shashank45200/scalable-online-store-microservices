@@ -16,6 +16,8 @@
   <description>Scalable online store built with Spring Boot 3 microservices</description>
   <modules>
     <module>product-service</module>
+    <module>order-service</module>
+    <module>inventory-service</module>
   </modules>
 
   <properties>
